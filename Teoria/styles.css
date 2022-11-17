@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(55, 100, 128);
+}
+
+h1{
+    color: rgba(143, 137, 56, 0.705);
+    font-size: 40px;
+}
+
+#title{
+    color: rgb(52, 153, 241);
+}
+.parágrafo{
+    font-size: 20px;
+    
+}
